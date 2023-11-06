@@ -1,7 +1,11 @@
 # ASD-Task_8
 Task №8 for Advanced Software Design by Application not responding team
 
-## How to run "Problem A" application:
+## Applied methods: ##
+**Problem A. Key Word in Context (KWIC)** - Pipes-and-filters\
+**Problem B. Eight Queens (8Q)** - Abstract Data Types
+
+## How to run "Problem A" application: ###
 
 ### Steps: ###
 1. Open command console in project directory.
@@ -19,7 +23,7 @@ Task №8 for Advanced Software Design by Application not responding team
 **Enter:** Example - this is a keyword in the first sentence. **(Then press Enter)**\
 **Press Enter again to finish entering data**
 
-## How to run "Problem B" application:
+## How to run "Problem B" application: ##
 
 ### Steps: ###
 1. Open command console in project directory.
