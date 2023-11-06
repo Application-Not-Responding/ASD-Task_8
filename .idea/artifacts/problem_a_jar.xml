@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="problem_a:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/problem_a_jar</output-path>
+    <root id="archive" name="ASD_TASK_8.jar">
+      <element id="module-output" name="ASD_TASK_8" />
+    </root>
+  </artifact>
+</component>
