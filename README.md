@@ -14,16 +14,16 @@ The sequence of application of modules: Input Module -> Circular Shift Module ->
 
 **Problem B. Eight Queens (8Q)** - Abstract Data Types
 
-1. Queen class is used to represent the queen on the chessboard. It has two private fields row and col, which represent the coordinates of the queen on the board. This class also contains the methods getRow(), getCol(), and isAttacking(Queen other), which allow you to get information about the position of the queen and check whether one queen attacks the other.
+1. **The Queen class** is used to represent the queen on the chessboard. It has two private fields row and col, which represent the coordinates of the queen on the board. This class also contains the methods getRow(), getCol(), and isAttacking(Queen other), which allow you to get information about the position of the queen and check whether one queen attacks the other.
 Queen is an abstract data type that provides abstraction for queens and their interactions.
 
 
-2. The EightQueens class presents the problem of placing eight queens on a chessboard in such a way that they do not beat each other.
+2. **The EightQueens class** presents the problem of placing eight queens on a chessboard in such a way that they do not beat each other.
 The constructor of this class defines the size of the board and creates an array of queens to store queens. This class also contains a solutionsCount variable to track the number of solutions found.
 The placeQueens() method solves the problem using a recursive algorithm. He tries to place queens on the board, checking that they do not attack each other, and increases solutionsCount when finding a valid solution.
 EightQueens is an abstract data type that provides an abstraction for solving the eight queens problem.
 
-3. The Problem_B_runner class is client code that interacts with the abstract data types EightQueens and Queen.
+3. **The Problem_B_runner class** is client code that interacts with the abstract data types EightQueens and Queen.
 It requests the size of the chessboard from the user, creates an instance of EightQueens, solves the problem and outputs the number of solutions found.
 
 ## How to run "Problem A" application: ###
