@@ -2,7 +2,7 @@
 Task №8 for Advanced Software Design by Application not responding team
 
 ## Applied methods: ##
-**Problem A. Key Word in Context (KWIC)** - Pipes-and-filters\
+**Problem A. Key Word in Context (KWIC)** - Pipes-and-filters
 
 The program consists of four main modules:
 1. **Input Module:** This module is responsible for reading input data. It reads lines of text from the console until it encounters an empty line, and saves them to a list.
